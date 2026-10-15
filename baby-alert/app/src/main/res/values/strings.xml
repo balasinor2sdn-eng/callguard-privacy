@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baby Alert</string>
+    <string name="awake_button">👶\nBABY IS\nAWAKE</string>
+    <string name="setup">⚙ Setup</string>
+    <string name="tap_hint">Tap the button when baby wakes up</string>
+</resources>
